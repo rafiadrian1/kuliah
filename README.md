@@ -51,13 +51,13 @@ If you find errors, feel free to open an "Issue" on GitHub.
 # Interactive/Normal installation
 The recommended way to use this script.
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/guldkage/Pterodactyl-Installer/main/installer.sh)
+bash <(curl -s https://raw.githubusercontent.com/rafiadrian1/kuliah/main/installer.sh)
 ```
 
 ### Raspbian
 Only for raspbian users. They might need a extra < in the beginning.
 ```bash
-bash < <(curl -s https://raw.githubusercontent.com/guldkage/Pterodactyl-Installer/main/installer.sh)
+bash < <(curl -s https://raw.githubusercontent.com/rafiadrian1/kuliah/main/installer.sh)
 ```
 
 # Autoinstall / Developer Installation
